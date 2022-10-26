@@ -1,0 +1,13 @@
+diff --git a/src/main.c b/src/main.c
+index a2d758d..ab87b5a 100644
+--- a/src/main.c
++++ b/src/main.c
+@@ -6,6 +6,7 @@ int main() {
+ =======
+   ;
+ >>>>>>> 32070ef8daf846012ef42bc2a5bd45af70a448e7
+-   return 0;
+ 
++return 0;
+ }
+ 
